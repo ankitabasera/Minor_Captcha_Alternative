@@ -1,1 +1,1 @@
-# Minor_Captcha_Alternative
+#Captcha Alternative
